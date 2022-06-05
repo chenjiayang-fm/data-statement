@@ -1,0 +1,4 @@
+
+Original image: Vehicle video image
+Segmentation effect diagram: In-vehicle video image segmentation network effect, main lane line, vehicle and ground tangent
+Vehicle detection renderings: Vehicle detection is mainly for vehicles
